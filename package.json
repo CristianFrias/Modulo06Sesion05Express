@@ -1,0 +1,17 @@
+{
+  "name": "modulo06sesion05express",
+  "version": "1.0.0",
+  "description": "Introducción a Express",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "prod": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Cristián Frías",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
